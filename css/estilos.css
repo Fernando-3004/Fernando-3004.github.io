@@ -13,3 +13,7 @@ h1 {
 div {
     margin-left:30px;
 }
+table, td{
+    color:aliceblue;
+    padding: 5px;
+}
